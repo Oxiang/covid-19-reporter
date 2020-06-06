@@ -1,4 +1,4 @@
-# covid-19-reporter
+# covid-19-reporter for Telegram Bot
 Personal project for telegram bot 
 
 Scrape the data of corona virus from worldometer and sequentially updates the user at regular time interval. 
